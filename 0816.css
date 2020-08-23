@@ -1,0 +1,21 @@
+
+.pic-block {
+    margin-left: -8.333333%;
+}
+.text-block {
+    z-index: 2;
+    background: rgba(255,255,255,0.75);
+}
+.big-icon {
+    width: 50px;
+    height: 50px;
+    fill:#ff0;
+}
+
+.p-100 {
+    padding: 50px;
+    
+}
+.text-b {
+    font-weight: 500;
+}
